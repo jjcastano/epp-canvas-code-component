@@ -43,7 +43,7 @@
   </ItemGroup>
   
   <ItemGroup>
-    <ProjectReference Include="..\LinearComponent.pcfproj" Version="1.*"/>
+    <ProjectReference Include="..\LinearComponent.pcfproj"/>
   </ItemGroup>
 
   <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" />
